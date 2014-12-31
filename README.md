@@ -1,5 +1,5 @@
 golib0lk
 ========
 
-Testing Golang.
+Learning and Testing Golang.
 Sample code
